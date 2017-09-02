@@ -1,7 +1,7 @@
 # MiniGame
 This is a small game for the wemos microcontroller and the Arduino IDE
 See this video for impressions and further information:
-...coming soon...
+https://youtu.be/uKS0WK62ybI
 
 # License
 bitluni 2017
